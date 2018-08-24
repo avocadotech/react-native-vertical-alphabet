@@ -10,7 +10,7 @@ import {
   InteractionManager,
   StyleSheet
 } from 'react-native'
-const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
+const ALPHABET = '#ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
 
 const styles = StyleSheet.create({
   container: {
